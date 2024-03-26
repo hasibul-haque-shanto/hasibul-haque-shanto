@@ -38,10 +38,10 @@
   <a href="https://www.linkedin.com/in/h-haque/" target="https://www.linkedin.com/in/h-haque/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="official.hasibul.haque@gmail.com" target="_blank">
+  <a href="official.hasibul.haque@gmail.com" target="official.hasibul.haque@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="+4915906811994" target="_blank">
+  <a href="+4915906811994" target="+4915906811994">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
